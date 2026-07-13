@@ -1,0 +1,14 @@
+
+
+git status
+	-uno
+	-s
+git diff
+		--staged
+
+
+
+git log
+		-p -2
+		--stat
+		--pretty
